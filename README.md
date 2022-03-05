@@ -1,2 +1,2 @@
-# keeperai-ringcentral-bot
+# keeperai-Ringcentral-Bot
 KeeperAI-RingCentral bot commands
