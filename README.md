@@ -35,5 +35,5 @@
 <img width="500" alt="Screen Shot 2022-03-06 at 5 45 59 PM" src="https://user-images.githubusercontent.com/61127092/156953931-2075a3ef-9325-4e63-b022-6938abd9ecc6.png">
 
 - -h / help [command]: show help message [about command]
-<img width="553" alt="Screen Shot 2022-03-06 at 5 47 26 PM" src="https://user-images.githubusercontent.com/61127092/156954090-bef526b6-dc0f-4454-a745-e3b8ec9c1cfe.png">
+<img width="500" alt="Screen Shot 2022-03-06 at 5 47 26 PM" src="https://user-images.githubusercontent.com/61127092/156954090-bef526b6-dc0f-4454-a745-e3b8ec9c1cfe.png">
 
