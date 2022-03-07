@@ -28,7 +28,7 @@
 ### To interact with your chatbot, query it in the chat with "@[chatbot name] and use the following commands:
 
 - !w / !whois [email]: show KeeperAI profile of [this email]
- - this will show the Keeper profile of the user querried 
+  - this will show the Keeper profile of the user querried 
  <img width="500" alt="Screen Shot 2022-03-06 at 5 42 39 PM" src="https://user-images.githubusercontent.com/61127092/156953752-f518d6d9-9b74-4540-b163-fe3fa6c13e9f.png">
  
 - -a / about: about this chatbot
