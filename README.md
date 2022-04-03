@@ -5,6 +5,25 @@
   2. Receive direct messages with links to requested KeeperAI profiles.
   3. Receive direct messages with an embeded version of the KeeperAI profile requested.
 
+## Installing Chatbot
+- **From the Apps tab on the RingCentral platform select "All add-ins" and search for KeeperAI**
+
+<img width="500" alt="Screen Shot 2022-04-03 at 12 42 22 PM" src="https://user-images.githubusercontent.com/61127092/161448301-95d7df91-843f-4ed8-9cae-5616162decf2.png">
+<img width="500" alt="Screen Shot 2022-04-03 at 12 37 41 PM" src="https://user-images.githubusercontent.com/61127092/161448370-c6354c90-4c0b-4c2b-b241-4f4ed1af5843.png">
+
+- **Select KeeperAI Chatbot for RingCentral and install bot**
+
+<img width="500" alt="Screen Shot 2022-04-03 at 12 35 56 PM" src="https://user-images.githubusercontent.com/61127092/161448451-6ff084fc-b844-4fd5-a174-0649ea769f77.png">
+
+### IF THE BOT ALREADY EXISTS 
+- **Select "Remove bot"**
+
+<img width="500" alt="Screen Shot 2022-04-03 at 12 34 50 PM" src="https://user-images.githubusercontent.com/61127092/161448612-d8f6212d-28c3-4288-9aea-051793b07238.png">
+<img width="500" alt="Screen Shot 2022-04-03 at 12 35 22 PM"  src="https://user-images.githubusercontent.com/61127092/161448653-a08d6c08-6d10-42a6-95f4-b103d30a0ace.png">
+
+- **Once this step is taken follow the above procedure to install the bot**
+  - this process insures that your chat group will have the latest version of the chatbot
+
 ## Adding Chatbot to group chat
 
 - **On the top right of your screen clink the link labled "Members"**
